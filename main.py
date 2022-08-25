@@ -17,7 +17,7 @@ if ganhos > gasto:
     msg['Subject'] = "lucro mensal "
     msg['From'] = 'pedro.goismarques2004@gmail.com'
 
-    #insira no 'TO' o usuario que irá receber o email
+   
 
     msg['To'] = gerente
     password = 'gtctftvgpvpltqvz'
@@ -41,7 +41,7 @@ else:
     msg['Subject'] = "prejuizo "
     msg['From'] = 'pedro.goismarques2004@gmail.com'
 
-    # insira no 'TO' o usuario que irá receber o email
+ 
 
     msg['To'] = gerente
     password = 'gtctftvgpvpltqvz'
